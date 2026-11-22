@@ -1,10 +1,10 @@
-# Hi 👋, I'm Muhammad Sadan Sardar
+<h1 align="center">Hi 👋, I'm Muhammad Sadan Sardar</h1>
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/muhammadsadan](https://github.com/muhammadsadan)">
-&#x20;   \<img src="[https://readme-typing-svg.herokuapp.com/?lines=🎓+Software+Engineering+Student;📱+Mobile+App+%26+Game+Development;🔗+Blockchain+Programming;🎨+Professional+Graphic+Designer&center=true&vCenter=true](https://readme-typing-svg.herokuapp.com/?lines=🎓+Software+Engineering+Student;📱+Mobile+App+%26+Game+Development;🔗+Blockchain+Programming;🎨+Professional+Graphic+Designer\&center=true\&vCenter=true)" />
-&#x20; \</a>
-\</p>
+<p align="center">
+  <a href="https://github.com/muhammadsadan">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🎓+Software+Engineering+Student;📱+Mobile+App+%26+Game+Developer;🔗+Blockchain+Programmer;🎨+Professional+Graphic+Designer&center=true&vCenter=true" />
+  </a>
+</p>
 
 \<h3 align="center">
 &#x20; Welcome to my GitHub profile! I'm Muhammad Sadan Sardar, a Software Engineering student passionate about Mobile App Development, Game Development, Blockchain Programming, and Graphic Design. With over 8 years of professional experience in graphic design and a growing focus on software development, I enjoy combining creativity with technology to create meaningful digital experiences.
