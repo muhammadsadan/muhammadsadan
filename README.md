@@ -1,110 +1,144 @@
+# Hi 👋, I'm Muhammad Sadan Sardar
 
-<h1 align="center">Hi 👋, Muhammad Sadan Sardar</h1>
+\<p align="center">
+&#x20; \<a href="[https://github.com/muhammadsadan](https://github.com/muhammadsadan)">
+&#x20;   \<img src="[https://readme-typing-svg.herokuapp.com/?lines=🎓+Software+Engineering+Student;📱+Mobile+App+%26+Game+Development;🔗+Blockchain+Programming;🎨+Professional+Graphic+Designer&center=true&vCenter=true](https://readme-typing-svg.herokuapp.com/?lines=🎓+Software+Engineering+Student;📱+Mobile+App+%26+Game+Development;🔗+Blockchain+Programming;🎨+Professional+Graphic+Designer\&center=true\&vCenter=true)" />
+&#x20; \</a>
+\</p>
 
-<p align="center">
-  <a href="https://github.com/muhammadsadan">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻+Software+Engineering+Student;🌟+Creative+Technologist;🚀+Graphic+Designer;&center=true&vCenter=true" />
-  </a>
-</p>
-
-
-
-<h3 align="center">Welcome to my GitHub profile! I'm Muhammad Sadan Sardar, a creative and motivated Software Engineering student with a strong background in graphic design and digital media. With 8+ years of experience in visual design and a growing focus on programming, data structures, and low-level systems, I enjoy combining creativity with logic to build practical, efficient, and well-structured solutions.</h3>
-
----
-
-### 🔭 **I’m currently working on:**
-
-- **DSA Practice (C/C++):** Strengthening fundamentals like arrays, pointers, loops, recursion, and algorithms.
-- **Assembly Language (8086):** Understanding registers, memory, and low-level program execution using DOSBox.
-- **Solidity Smart Contracts:** Small projects using Remix IDE (e.g., Calculator contract).
-- **Dummy Semester Projects:** Practical projects related to OS, Networks, DBMS, and Software Engineering.
-- **Graphic Design Assets:** Logos, social media designs, and brand visuals under *Dastaan Graphics*.
+\<h3 align="center">
+&#x20; Welcome to my GitHub profile! I'm Muhammad Sadan Sardar, a Software Engineering student passionate about Mobile App Development, Game Development, Blockchain Programming, and Graphic Design. With over 8 years of professional experience in graphic design and a growing focus on software development, I enjoy combining creativity with technology to create meaningful digital experiences.
+\</h3>
 
 ---
 
-### 🌱 **I’m currently learning:**
+### 🔭 I'm currently working on:
 
+- 📱 **Mobile App Development:** Exploring Flutter and developing mobile application projects.
+- 🎮 **Game Development:** Learning mobile game development and interactive experiences.
+- 🔗 **Blockchain Programming:** Exploring Solidity, smart contracts, and Web3 technologies.
+- 💻 **Software Engineering:** Practicing programming, problem-solving, and software development concepts.
+- 🎨 **Graphic Design:** Creating logos, branding, social media designs, and visual assets under *Dastaan Graphics*.
+
+---
+
+### 🌱 I'm currently learning:
+
+- Flutter & Dart
+- Mobile Application Development
+- Mobile Game Development
+- C & C++ Programming
 - Data Structures & Algorithms (DSA)
-- C and C++ (problem-solving focused)
-- Operating Systems & Computer Architecture
-- Computer Networks & Data Communication
-- Git & GitHub (CLI-based workflow)
-- Ethical Hacking fundamentals (for self-protection)
-- Web3 & Blockchain basics
+- Solidity & Blockchain Development
+- PHP & MySQL
+- Git & GitHub
+- Software Engineering Principles
 
 ---
 
-### 👯 **I’m looking to collaborate on:**
+### 👯 I'm looking to collaborate on:
 
-- Beginner-friendly **C/C++ & DSA projects**
-- **Open-source** projects related to learning systems programming
-- **Blockchain / Solidity** practice projects
-- **UI/UX + Dev** combined projects (design + code)
-
----
-
-### 💬 **Ask me about:**
-
-- C / C++ basics & DSA learning roadmap
-- Git & GitHub for beginners
-- Assembly language (8086 basics)
-- Graphic Design & Photoshop
-- Building portfolios as a student
-- Web3 & Solidity basics
+- Beginner-friendly Mobile App Development projects
+- Mobile Game Development projects
+- Blockchain and Solidity practice projects
+- C/C++ programming and DSA projects
+- UI/UX and Software Development projects
+- Open-source projects
 
 ---
 
-### 📄 **Education:**
+### 💬 Ask me about:
 
-- **BS Software Engineering** – Virtual University of Pakistan (VU)
+- Graphic Design & Branding
+- Logo Design & Visual Identity
+- Adobe Photoshop & Illustrator
+- Software Engineering fundamentals
+- Mobile App Development basics
+- C/C++ Programming basics
+- Blockchain & Solidity basics
+- Git & GitHub
 
 ---
 
-### 🧠 **Experience:**
+### 📄 Education:
 
-- **Graphic Designer (8+ Years):** Branding, logos, social media creatives, and marketing designs.
-- **Freelance Work:** Design-focused projects with increasing involvement in tech-based solutions.
-- **Student Developer:** Hands-on practice with low-level programming, systems, and problem-solving.
+- **BS Software Engineering** – Virtual University of Pakistan
 
 ---
 
-### 🧰 **Languages & Tools:**
+### 🧠 Professional Experience & Development:
 
-**Programming & CS:**
+- **Graphic Designer (8+ Years):** Professional experience in logo design, branding, visual identity, social media creatives, marketing materials, and digital graphics.
+- **Software Engineering Student:** Building knowledge of programming, software development, algorithms, and computer science.
+- **Mobile App & Game Development:** Developing skills in Flutter, Dart, and mobile development technologies.
+- **Blockchain Programming:** Learning Solidity, smart contracts, and blockchain fundamentals.
 
-- C, C++
-- Assembly (8086)
+---
+
+### 🧰 Languages & Tools:
+
+**Programming Languages:**
+
+- C
+- C++
+- Dart
+- PHP
+- JavaScript
 - Solidity (Basics)
-- JavaScript (Basics)
 
-**Core CS Knowledge:**
+**Mobile & Game Development:**
 
-- Data Structures & Algorithms
-- Operating Systems
-- Computer Networks
-- DBMS
-- Computer Architecture
+- Flutter
+- Android Studio
+- Visual Studio Code
 
-**Design & Creative:**
+**Web & Database:**
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- WordPress
+
+**Blockchain Development:**
+
+- Solidity
+- Remix IDE
+- Smart Contracts (Basics)
+
+**Graphic Design & Creative:**
 
 - Adobe Photoshop
 - Adobe Illustrator
+- CorelDraw
 - Figma
 - Branding & Visual Identity
 
 **Tools & Platforms:**
 
-- Git & GitHub (CLI)
+- Git & GitHub
+- XAMPP
 - Linux (Basics)
-- DOSBox
-- Remix IDE
 
 ---
 
-### ⚡ **Fun fact:**
+### ⚡ Fun Fact:
 
-I started with design 🎨, fell in love with logic 💻, and now I enjoy living at the intersection of **creativity and code**.
+I started my journey with graphic design 🎨, developed a passion for programming 💻, and now I'm exploring the exciting worlds of mobile applications, game development, and blockchain technology. I believe creativity and technology can come together to build something amazing!
 
 ---
 
+### 🌐 Connect with me:
+
+\<p align="left">
+&#x20; \<a href="[https://github.com/muhammadsadan](https://github.com/muhammadsadan)" target="\_blank">
+&#x20;   GitHub
+&#x20; \</a> |
+&#x20; \<a href="[https://www.linkedin.com/in/muhammad-sadan-sardar-067365253/](https://www.linkedin.com/in/muhammad-sadan-sardar-067365253/)" target="\_blank">
+&#x20;   LinkedIn
+&#x20; \</a> |
+&#x20; \<a href="[https://www.behance.net/muhammadsadan](https://www.behance.net/muhammadsadan)" target="\_blank">
+&#x20;   Behance
+&#x20; \</a>
+\</p>
