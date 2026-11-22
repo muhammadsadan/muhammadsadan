@@ -6,9 +6,9 @@
   </a>
 </p>
 
-\<h3 align="center">
+<h3 align="center">
 &#x20; Welcome to my GitHub profile! I'm Muhammad Sadan Sardar, a Software Engineering student passionate about Mobile App Development, Game Development, Blockchain Programming, and Graphic Design. With over 8 years of professional experience in graphic design and a growing focus on software development, I enjoy combining creativity with technology to create meaningful digital experiences.
-\</h3>
+</h3>
 
 ---
 
@@ -131,14 +131,11 @@ I started my journey with graphic design 🎨, developed a passion for programmi
 
 ### 🌐 Connect with me:
 
-\<p align="left">
-&#x20; \<a href="[https://github.com/muhammadsadan](https://github.com/muhammadsadan)" target="\_blank">
-&#x20;   GitHub
-&#x20; \</a> |
-&#x20; \<a href="[https://www.linkedin.com/in/muhammad-sadan-sardar-067365253/](https://www.linkedin.com/in/muhammad-sadan-sardar-067365253/)" target="\_blank">
+<p align="left">&#x20; <a href="[https://github.com/muhammadsadan](https://github.com/muhammadsadan)" target="\_blank"> &#x20;   GitHub
+&#x20; </a> |
+&#x20; <a href="[https://www.linkedin.com/in/muhammad-sadan-sardar-067365253/](https://www.linkedin.com/in/muhammad-sadan-sardar-067365253/)" target="\_blank">
 &#x20;   LinkedIn
-&#x20; \</a> |
-&#x20; \<a href="[https://www.behance.net/muhammadsadan](https://www.behance.net/muhammadsadan)" target="\_blank">
-&#x20;   Behance
-&#x20; \</a>
-\</p>
+&#x20; </a> |
+&#x20; <a href="[https://www.behance.net/muhammadsadan](https://www.behance.net/muhammadsadan)" target="\_blank">
+&#x20;   Behance &#x20; </a>
+</p>
